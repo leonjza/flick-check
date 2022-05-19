@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlickCheck</string>
+
+    <string name="action_secure_close">-</string>
+
+    <string name="preference_file">com.flick.flickcheck.PREFERENCES</string>
+    <string name="title_activity_read_api_server">Set API Server</string>
+    <string name="title_activity_register">Register</string>
+    <string name="register_status">Registering</string>
+    <string name="title_activity_do_register">Perform Registration</string>
+    <string name="title_activity_command">Diagnostic Tools</string>
+</resources>
